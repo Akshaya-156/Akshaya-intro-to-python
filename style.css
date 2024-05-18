@@ -14,7 +14,7 @@ box-sizing: border-box;
 .container{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.4),rgba(159, 219, 214, 0.4)), url(background1.jpg);
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(102, 236, 224, 0.4)), url(background1.jpg);
     background-position:center;
     background-size: cover;
     position:relative;
